@@ -1,0 +1,15 @@
+Dont Steal Mac OS X.kext:
+
+  Version:	7.0.0
+  Last Modified:	5/3/26, 8:50 PM
+  Bundle ID:	com.apple.Dont_Steal_Mac_OS_X
+  Loaded:	Yes
+  Architectures:	x86_64
+  64-Bit (Intel):	Yes
+  Location:	/System/Library/Extensions/Dont%20Steal%20Mac%20OS%20X.kext/
+  Kext Version:	7.0.0
+  Load Address:	18446743523987153000
+  Loadable:	Yes
+  Dependencies:	Satisfied
+  Signed by:	Signed by Apple Inc. (In Boot Kernel Collection)
+
